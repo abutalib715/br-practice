@@ -1,1 +1,1 @@
-"Conflicts from master" 
+Written in branch to test conflicts
