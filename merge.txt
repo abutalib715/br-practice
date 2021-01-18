@@ -1,1 +1,2 @@
 "Written in branch to test conflicts" 
+Updating file with some text
